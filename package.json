@@ -15,5 +15,9 @@
   "devDependencies": {
     "node-fetch": "^2.6.9",
     "parcel-plugin-static-files-copy": "^2.6.0"
+  },
+  "staticFiles": {
+    "staticPath": "./static",
+    "staticOutDir" : "assets"
   }
 }
