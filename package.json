@@ -13,6 +13,7 @@
     "parcel": "^2.8.3"
   },
   "devDependencies": {
-    "node-fetch": "^2.6.9"
+    "node-fetch": "^2.6.9",
+    "parcel-plugin-static-files-copy": "^2.6.0"
   }
 }
