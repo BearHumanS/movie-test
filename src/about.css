@@ -161,7 +161,6 @@ header.searching .search-wrap {
 /* Main */
 main {
     position: relative;
-    background-color: #333;
     height: 500px;
     text-align: center;
     display: flex;
@@ -177,9 +176,9 @@ main p {
     margin-bottom: 20px;
 }
 main img {
-    width: 50%;
-    margin: auto;
+    width: 20%;
     background-color: #333;
+    margin: 30px auto;
 }
 main .name {
     font-size: 36px;
