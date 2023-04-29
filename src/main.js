@@ -84,17 +84,17 @@ async function getDetails(imdbID) {
       `<li>
     ${
       rating.Source === 'Internet Movie Database'
-        ? '<img class="rating-logo "src="../static/imdb.jpg" alt="IMDb Logo" />'
+        ? '<img class="rating-logo "src="/imdb.jpg" alt="IMDb Logo" />'
         : ''
     }
     ${
       rating.Source === 'Rotten Tomatoes'
-        ? '<img class="rating-logo" src="../static/r.png" alt="Rotten Tomatoes" />'
+        ? '<img class="rating-logo" src="/r.png" alt="Rotten Tomatoes" />'
         : ''
     }
     ${
       rating.Source === 'Metacritic'
-        ? '<img class="rating-logo" src="../static/m.png" alt="Metacritic" />'
+        ? '<img class="rating-logo" src="/m.png" alt="Metacritic" />'
         : ''
     }
     ${rating.Value}

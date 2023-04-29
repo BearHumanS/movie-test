@@ -1,4 +1,4 @@
-5870
+5872
 44C:\Users\MSI\Desktop\movie.parcel\.gitignore133271785984170943 0
 78C:\Users\MSI\Desktop\movie.parcel\node_modules\caniuse-lite\data\regions\KZ.js133271776460432174 0
 81C:\Users\MSI\Desktop\movie.parcel\node_modules\@parcel\events\src\ValueEmitter.js133271776436272359 0
@@ -39,7 +39,7 @@
 72C:\Users\MSI\Desktop\movie.parcel\node_modules\css-select\lib\index.d.ts133271776446566942 0
 64C:\Users\MSI\Desktop\movie.parcel\node_modules\@msgpackr-extract133272425476490215 1
 68C:\Users\MSI\Desktop\movie.parcel\node_modules\csso\dist\csso.esm.js133271776445481024 0
-38C:\Users\MSI\Desktop\movie.parcel\dist133272429120787614 1
+38C:\Users\MSI\Desktop\movie.parcel\dist133272430383464581 1
 101C:\Users\MSI\Desktop\movie.parcel\node_modules\@parcel\core\test\fixtures\custom-targets\package.json133271776451036400 0
 59C:\Users\MSI\Desktop\movie.parcel\node_modules\lmdb\LICENSE133271776437098421 0
 104C:\Users\MSI\Desktop\movie.parcel\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c133271776445983446 0
@@ -145,7 +145,7 @@
 83C:\Users\MSI\Desktop\movie.parcel\node_modules\@swc\helpers\lib\_new_arrow_check.js133271776444564866 0
 48C:\Users\MSI\Desktop\movie.parcel\src\about.html133268334132119716 0
 89C:\Users\MSI\Desktop\movie.parcel\node_modules\utility-types\dist\functional-helpers.d.ts133271776437938132 0
-45C:\Users\MSI\Desktop\movie.parcel\src\main.js133272421247660989 0
+45C:\Users\MSI\Desktop\movie.parcel\src\main.js133272430303245733 0
 63C:\Users\MSI\Desktop\movie.parcel\node_modules\is-json\index.js133271776432130173 0
 63C:\Users\MSI\Desktop\movie.parcel\node_modules\stable\README.md133271776430052406 0
 66C:\Users\MSI\Desktop\movie.parcel\node_modules\buffer-from\LICENSE133271776428384744 0
@@ -3090,6 +3090,7 @@
 101C:\Users\MSI\Desktop\movie.parcel\node_modules\csso\node_modules\css-tree\cjs\syntax\config\lexer.cjs133271776445832837 0
 102C:\Users\MSI\Desktop\movie.parcel\node_modules\csso\node_modules\css-tree\cjs\syntax\config\parser.cjs133271776447446082 0
 102C:\Users\MSI\Desktop\movie.parcel\node_modules\csso\node_modules\css-tree\cjs\syntax\config\walker.cjs133271776449270619 0
+60C:\Users\MSI\Desktop\movie.parcel\dist\index.a33b454f.js.map133272430383442223 0
 102C:\Users\MSI\Desktop\movie.parcel\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\import.cjs133271776444012940 0
 101C:\Users\MSI\Desktop\movie.parcel\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\index.cjs133271776444974348 0
 94C:\Users\MSI\Desktop\movie.parcel\node_modules\caniuse-lite\data\features\fieldset-disabled.js133271776456193507 0
@@ -5220,7 +5221,7 @@
 128C:\Users\MSI\Desktop\movie.parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\addAttributesToSVGElement.js133271776434709045 0
 125C:\Users\MSI\Desktop\movie.parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\addClassesToSVGElement.js133271776435205088 0
 115C:\Users\MSI\Desktop\movie.parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupAttrs.js133271776435626167 0
-49C:\Users\MSI\Desktop\movie.parcel\dist\index.html133272429120437913 0
+49C:\Users\MSI\Desktop\movie.parcel\dist\index.html133272430383363880 0
 126C:\Users\MSI\Desktop\movie.parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupEnableBackground.js133271776435974318 0
 113C:\Users\MSI\Desktop\movie.parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupIDs.js133271776436292459 0
 122C:\Users\MSI\Desktop\movie.parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupListOfValues.js133271776436671877 0
@@ -5654,6 +5655,7 @@
 78C:\Users\MSI\Desktop\movie.parcel\node_modules\@parcel\core\src\Environment.js133271776445767038 0
 72C:\Users\MSI\Desktop\movie.parcel\node_modules\@parcel\core\src\index.js133271776446052300 0
 81C:\Users\MSI\Desktop\movie.parcel\node_modules\@parcel\core\src\InternalConfig.js133271776446882847 0
+56C:\Users\MSI\Desktop\movie.parcel\dist\index.a33b454f.js133272430383363880 0
 83C:\Users\MSI\Desktop\movie.parcel\node_modules\@parcel\core\src\loadParcelPlugin.js133271776447141157 0
 75C:\Users\MSI\Desktop\movie.parcel\node_modules\@parcel\cache\lib\FSCache.js133271776429446863 0
 73C:\Users\MSI\Desktop\movie.parcel\node_modules\@parcel\core\src\Parcel.js133271776447904862 0
