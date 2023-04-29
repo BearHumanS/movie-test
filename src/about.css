@@ -161,13 +161,14 @@ header.searching .search-wrap {
 /* Main */
 main {
     position: relative;
-
+    background-color: #333;
     height: 500px;
     text-align: center;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    top: 50px;
 }
 main a {
     color: rgb(202, 112, 112);
@@ -176,8 +177,9 @@ main p {
     margin-bottom: 20px;
 }
 main img {
-    width: 100%;
-    margin-bottom: 30px;
+    width: 50%;
+    margin: auto;
+    background-color: #333;
 }
 main .name {
     font-size: 36px;
