@@ -84,7 +84,7 @@ async function getDetails(imdbID) {
       `<li>
     ${
       rating.Source === 'Internet Movie Database'
-        ? '<img class="rating-logo "src="/imdb.jpg" alt="IMDb Logo" />'
+        ? '<img class="rating-logo "src="/imdb.jpg" alt="IMDb" />'
         : ''
     }
     ${
