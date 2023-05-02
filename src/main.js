@@ -55,7 +55,7 @@ searchInput.addEventListener('keydown', async e => {
         return `
           <div class="swiper-slide">
             <h2>${Title} (${Year})</h2>
-            <p><img class="poster" src=${Poster} alt="${Title}" onerror=" this.src='./static/No-image-available.jpg';" onclick="getDetails('${imdbID}')">
+            <p><img class="poster" src=${Poster} alt="${Title}" onerror="this.onerror=null; this.src='./static/No-image-available.jpg';" onclick="getDetails('${imdbID}')">
             </p>
             <div class="movie-data" style="display: none;"></div>
           </div>
