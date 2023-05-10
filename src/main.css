@@ -196,7 +196,7 @@ main .info {
     align-items: center;
     justify-content: center;
 }
-main .info div {
+main .info p {
     color: #fff;
     margin:20px 0;
     background-color: rgba(0,0,0, 0.4);
